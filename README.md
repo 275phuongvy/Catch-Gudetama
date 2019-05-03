@@ -22,7 +22,7 @@ More information
 
 - API: 28
 
-- SDK: Nexus 5 - Oreo
+- SDK: Nexus 5S - Oreo
 
 - Creator: Vy P Tran
 
